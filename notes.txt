@@ -1,0 +1,2 @@
+My name is Raphael!
+Appending this text to the file!
