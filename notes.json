@@ -1,5 +1,1 @@
-[
-  { "title": "c", "body": "d" },
-  { "title": "a", "body": "b" },
-  { "title": "e", "body": "f" }
-]
+[{"title":"a","body":"b"},{"title":"e","body":"f"}]
