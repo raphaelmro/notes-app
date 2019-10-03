@@ -3,7 +3,7 @@
 **Notes-App Project** is an app that has functionalities to help you on mantaining your daily tasks.
 
 ## Screenshot
-![alt text](https://ibb.co/rdb1R6L)
+![Screenshot](https://i.ibb.co/nP35NcV/screenshot.png)
 
 ## Requirements
 -   NodeJS
