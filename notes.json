@@ -1,1 +1,6 @@
-[{"title":"Course ideas","body":""},{"title":"Clean the bedroom","body":""},{"title":"Tame the lion","body":""},{"title":"Learn Javascript","body":""}]
+[
+  { "title": "Course ideas", "body": "Think!!" },
+  { "title": "Clean the bedroom", "body": "This time, do it well" },
+  { "title": "Tame the lion", "body": "Be cautious" },
+  { "title": "Learn Javascript", "body": "Study JS everyday" }
+]
