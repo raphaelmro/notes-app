@@ -14,10 +14,10 @@
 2. Install the project dependencies:
 `npm install`
 3. Run **Notes-App**! Check the available commands:
-   3.1. `node app.js add`
-   3.2. `node app.js remove`
-   3.3. `node app.js read`
-   3.4. `node app.js list`
+   * `node app.js add`
+   * `node app.js remove`
+   * `node app.js read`
+   * `node app.js list`
 
 ## Contributing
 The project is open to receive new suggestions and pull requests
