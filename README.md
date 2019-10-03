@@ -10,7 +10,7 @@
 
 ## Install
 1. Clone the repository:
-`git clone https://github.com/raphaelmro/reactnd-project-myreads-starter.git`
+`git clone https://github.com/raphaelmro/notes-app.git`
 2. Install the project dependencies:
 `npm install`
 3. Run **Notes-App**! Check the available commands:
