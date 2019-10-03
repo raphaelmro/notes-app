@@ -1,6 +1,6 @@
 # Notes-App Project
 
-**Notes-App Project** is an app that has functionalities to help you on mantaining your daily tasks.
+**Notes-App Project** is an app that has functionalities to help you mantaining your daily tasks.
 
 ## Screenshot
 ![Screenshot](https://i.ibb.co/nP35NcV/screenshot.png)
